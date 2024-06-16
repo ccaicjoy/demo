@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,todesk,DIRECT
 DOMAIN-KEYWORD,oray,DIRECT
 DOMAIN-SUFFIX,061024.xyz,DIRECT
 DOMAIN-SUFFIX,caoni.link,DIRECT
-DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
+domain:services.googleapis.cn
+domain:xn--ngstr-lra8j.com
